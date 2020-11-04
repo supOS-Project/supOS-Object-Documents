@@ -1,7 +1,4 @@
-# supOS Documents
-
-> supOS-Object-Documents：supOS操作系统对象脚本服务以及控件使用说明文档
-
+* [Home](/)
 * [CommonIntro 基本信息](/docs/CommonIntro/)
   * [APP基本信息](/docs/CommonIntro/appBasic)
   * [交互配置场景介绍](/docs/CommonIntro/action)

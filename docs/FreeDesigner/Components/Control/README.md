@@ -1,0 +1,16 @@
+# Control
+
+* [实时报警](/docs/FreeDesigner/Components/Control/RealAlarm)
+* [历史报警](/docs/FreeDesigner/Components/Control/HistoryAlarm)
+* [驱动视频](/docs/FreeDesigner/Components/Control/videoCtrl)
+* [视频墙](/docs/FreeDesigner/Components/Control/videoWall)
+* [趋势图](/docs/FreeDesigner/Components/Control/TrendChart)
+* [待办列表](/docs/FreeDesigner/Components/Control/todo)
+* [发起流程](/docs/FreeDesigner/Components/Control/flowBtn)
+* [流程列表](/docs/FreeDesigner/Components/Control/flowList)
+* [报表](/docs/FreeDesigner/Components/Control/ReporterCtrl)
+* [网页](/docs/FreeDesigner/Components/Control/webview)
+* [日历](/docs/FreeDesigner/Components/Control/calendar)
+* [轮播](/docs/FreeDesigner/Components/Control/CarouselCtrl)
+* [可编程组件](/docs/FreeDesigner/Components/Control/customComp)
+* [定时器](/docs/FreeDesigner/Components/Control/interval)
