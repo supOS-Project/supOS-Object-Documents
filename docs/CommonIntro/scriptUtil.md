@@ -289,6 +289,9 @@ scriptUtil.JSONToExcelConvertor({
 ```
     scriptUtil.request('url', {
       method: 'POST', // 'GET', 'PUT', 'DELETE',
+      headers: {
+          'X-Namespace': ''//命名空间，对象模板所在的命名空间
+      },
       body: {
         // 入参
       }
